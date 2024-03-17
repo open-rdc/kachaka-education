@@ -1,0 +1,2 @@
+# kachaka-education
+kachakaを教育目的に使用することを検討するレポジトリ
